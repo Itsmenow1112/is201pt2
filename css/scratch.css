@@ -1,0 +1,46 @@
+body{
+    background-color: lightsalmon;
+    color: rgb(160, 49, 49);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.links a {
+    background-color: #771f1f;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.title{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+
+.centered-list{
+        font-size: 20px;
+        padding: left 0;
+        list-style-position:outside;
+        margin: 0 auto;
+        display:table;
+        text-align: left;
+}
+
+.quote{
+    font-style: italic;
+}
+
+
+img{
+    display: block;
+    width:  25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
